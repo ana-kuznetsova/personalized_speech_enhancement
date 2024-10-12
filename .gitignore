@@ -1,0 +1,8 @@
+__pycache__/
+pretrained_models/*
+interp_out/
+ray_search_cm/
+speakers/
+*.pt
+*.json
+*.txt
